@@ -1,0 +1,1 @@
+query_id=AAHvrh5fAwAAAO-uHl9SxIk4&user=%7B%22id%22%3A8038297327%2C%22first_name%22%3A%22Zara%2011714%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22kinantaaa2222%22%2C%22language_code%22%3A%22id%22%7D&auth_date=1726938788&hash=a3e0e085b7428359cbf4cfeb87437e792c30776cab2e6b31055fb84350a9b99a
