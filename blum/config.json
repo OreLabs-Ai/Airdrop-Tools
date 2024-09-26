@@ -1,0 +1,8 @@
+{
+    "auto_claim": true,
+    "auto_task": true,
+    "auto_game": true,
+    "low": 350,
+    "high": 450,
+    "telegram_id": ""
+}

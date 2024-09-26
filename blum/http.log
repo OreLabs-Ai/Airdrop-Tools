@@ -1,0 +1,5 @@
+412 {"message":"Task is not done"}
+200 {"id":"ee7f9854-7ad7-4d95-9e4a-0ffb4210b0fa","kind":"INITIAL","type":"INTERNAL","status":"STARTED","validationType":"DEFAULT","iconFileKey":"e2b28ca7-366f-4a34-8448-8badc5f31c62/a84a75fd-5016-4486-a9a2-6e3912e62d43","bannerFileKey":null,"title":"Join or create tribe","productName":null,"description":null,"reward":"300","isHidden":false,"isDisclaimerRequired":false}
+412 {"message":"Task is not done"}
+200 {"availableBalance":"12905.8","playPasses":0,"isFastFarmingEnabled":false,"timestamp":1727244891687,"farming":{"startTime":1727233160197,"endTime":1727261960197,"earningsRate":"0.002","balance":"23.462"}}
+200 {"availableBalance":"12905.8","playPasses":0,"isFastFarmingEnabled":false,"timestamp":1727244891922,"farming":{"startTime":1727233160197,"endTime":1727261960197,"earningsRate":"0.002","balance":"23.462"}}
